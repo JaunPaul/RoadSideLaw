@@ -242,18 +242,14 @@ Road Traffic Act (Rules of the Road) (Amendment) Regs, SI 299/ 2002 – Sect. 16
 
 3\. Headgear’ includes a device which is specially designed or adapted to allow the driver to use a cellular or mobile telephone or other communication device in such a manner that the driver does not hold it in one or both hands or with any other part of the body, and which is connected to the cellular or mobile telephone or other communication device concerned, directly or indirectly, while being fitted or attached to one or both ears of the driver.”
 
-VISITORS TO ZIMBABWE
+## VISITORS TO ZIMBABWE
 
 Note: The provisions of Sect. 53 – Spare wheels, tools and fire extinguishers – do not apply to foreign registered vehicles that are in transit or on a temporary entry permit.
 
 Embassy contact numbers:
-
 Zambia – ( 04 ) 773 777/80
-
 Botswana – ( 04 ) 794 645/7/
-
 S.A – ( 04 ) 760404 / 706136
-
 Mozambique – ( 04 ) 255871 /72 
 
 
@@ -265,3 +261,16 @@ When paying a fine in Zimbabwe, the police officer is required to issue you a fo
 3. The date and time of the offense
 4. The location where the offense occurred
 5. The details of the issuing officer
+
+## If you don't want to go to the police station to file a complaint, you can request a representative to do it on your behalf. Here's how:
+1.	Open the Help24Seven App:
+    - Navigate to the app on your device.
+2.	Press the Services Button:
+    - Look for the services button on the app's main screen and press it.
+3.	Request a Representative:
+    - Select the option to request a representative to file the report on your behalf.
+4.	Provide Necessary Information:
+    - The representative will advise you on the information needed to enable them to file the report on your behalf.
+
+Alternatively, you can contact Help24Seven by phone at +263773429028 for assistance.
+For more information, visit our website at Help24Seven.
