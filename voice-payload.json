@@ -1,0 +1,27 @@
+[
+  {
+    "update_id": 934917178,
+    "message": {
+      "message_id": 58,
+      "from": {
+        "id": 7705363449,
+        "is_bot": false,
+        "first_name": "Jaun",
+        "language_code": "en"
+      },
+      "chat": {
+        "id": 7705363449,
+        "first_name": "Jaun",
+        "type": "private"
+      },
+      "date": 1738250777,
+      "voice": {
+        "duration": 2,
+        "mime_type": "audio/ogg",
+        "file_id": "AwACAgUAAxkBAAM6Z5uaGXV7wnDVAkR5V-vxm4LxW4gAAv8SAALbbeFUTHLxz4xhDYA2BA",
+        "file_unique_id": "AgAD_xIAAttt4VQ",
+        "file_size": 38643
+      }
+    }
+  }
+]
