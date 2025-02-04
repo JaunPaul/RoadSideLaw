@@ -60,7 +60,7 @@ Spotlights – Sect. 28
 
 Note: There is no reference under Sect. 28 to it being an offence to use Spot lights during daylight hours (6:30am to 5:30pm).
 
-\#\# EMERGENCY EQUIPMENT
+## EMERGENCY EQUIPMENT
 
 Warning triangle (referred to as visual warning device) – Sect. 52
 
@@ -255,3 +255,13 @@ Botswana – ( 04 ) 794 645/7/
 S.A – ( 04 ) 760404 / 706136
 
 Mozambique – ( 04 ) 255871 /72 
+
+
+## What form should the police issue you with when paying a fine?
+The fine form issued by the police at Zimbabwe roadblocks is called the Form Z69 (j) Admission of Guilt. This form allows motorists to admit their guilt and pay the fine on the spot. If the fine is not paid immediately, the motorist may be issued a Form 265, which allows them to pay the fine at a police station within a specified period.
+When paying a fine in Zimbabwe, the police officer is required to issue you a formal receipt or citation. This document typically includes the following details:
+1. The nature of the offense
+2. The amount of the fine
+3. The date and time of the offense
+4. The location where the offense occurred
+5. The details of the issuing officer
